@@ -4,7 +4,7 @@
 ## ロボットが仕事を奪うのでは？
 ここ200年、そんな心配をしてきた。
 * 1800年代初め 自動織機 → ラッダイト
-* 1960年代 コンピューターが銀行・保険の窓口業務をなくす？ → リンドンジョンソン大統領 [National Commission on Technology, Automation, and Economic Progress](https://books.google.co.jp/books?id=9TrAWFlGymgC&printsec=frontcover&hl=ja#v=onepage&q&f=false)
+* 1960年代 コンピューターが銀行・保険の窓口業務をなくす？ → リンドンジョンソン大統領による調査 [National Commission on Technology, Automation, and Economic Progress](https://books.google.co.jp/books?id=9TrAWFlGymgC&printsec=frontcover&hl=ja#v=onepage&q&f=false)
 * 2010年代 Erik Brynjolfsson and Andrew McAfee: AIがブルーカラーだけでなくホワイトカラーの事務職も奪う ([「The Second Machine Age」](https://www.amazon.co.jp/dp/4822250997/))
 * しかし技術が古い仕事を奪うと同時に市場は新しい仕事を作ってきた。
 * 今度も同じと証明できるか？ それは難しいが、きっと我々の孫は我々が想像したこともない仕事に就いているだろう。
@@ -25,11 +25,11 @@
 #### 対人スキルは想像以上に重要
 * 対人耒須の重要性は見過ごされている。
 * 2章で述べたように、個人の認識知能より、社交知能が集合知にとって重要。(個人的な観測から) 成功している人も社交知能が高い。
-* コンピューターの対人スキルｈ上がっている (MITの研究) が、認知能力ほどの進展は望めない。
+* コンピューターの対人スキルは上がっている (MITの研究) が、認知能力ほどの進展は望めない。
 * ATMが米国で40万台導入され、銀行の職員が減ったかというと1980年から2010年の間に50万人から55万人に増えた。お金を渡す窓口係から、顧客との関係を築く営業職になった。
 * 対人スキルの重要性が増したということだ。同様に対人すきを必要とする仕事は増えると思われる。
 
-#### Home helth aides
+#### Home health aides
 * 90歳の母のケアをしなければいけない個人的な経験から、対人スキルと一般知能を持つ人を探すのは難しく、健康、快適、幸福のために重要になる。
 * 2040年までに米国で35万人不足する。現在ケアワーカーとケアマネージャーの収入も社会的評価も低いが、今後上がっていく
 
